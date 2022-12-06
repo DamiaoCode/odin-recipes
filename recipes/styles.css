@@ -1,0 +1,34 @@
+*{
+    list-style: none;
+}
+body{
+    background-color: #678983;
+}
+
+#recipe{
+    width: 65%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    background-color: #E6DDC4;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+img{
+    width: 500px;
+    height: 500px;
+    object-fit: cover;
+    border-radius: 15px;
+    border: 5px solid #F0E9D2;
+}
+
+#ing-and-steps{
+    width: 65%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #E6DDC4;
+    padding: 10px;
+    border-radius: 15px;
+    margin-top: 20px;
+}
